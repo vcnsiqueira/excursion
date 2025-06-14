@@ -1,0 +1,17 @@
+body {
+  font-family: Verdana, sans-serif;
+  background-color: #000000;
+  text-align: center;
+}
+
+.top-heading {
+  font-weight: normal;
+  font-size: 50px;
+  color: #FFFFFF;
+  ;
+}
+
+.link {
+  color: aquamarine;
+  font-size: 16px;
+}
